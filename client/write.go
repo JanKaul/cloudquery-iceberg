@@ -1,8 +1,8 @@
 package client
 
 /*
-#cgo LDFLAGS: -L./iceberg -liceberg_c
-#include "iceberg/iceberg_c.h"
+#cgo LDFLAGS: -L../iceberg -liceberg_c
+#include "../iceberg/iceberg_c.h"
 */
 import "C"
 
